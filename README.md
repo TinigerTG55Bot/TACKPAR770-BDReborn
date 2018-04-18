@@ -12,12 +12,6 @@
 
 **You can use "#", "!", or "/" to begin all commands
 
-* * *
-
-# Installation
-
-**If use TACKPAR770 put your helper bot Username Without @ in bot.lua, line 2
-
 ```sh
 # Let's install the bot.
 cd $HOME
